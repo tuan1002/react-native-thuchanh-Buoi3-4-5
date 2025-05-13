@@ -1,0 +1,24 @@
+{
+  "services": [
+    {
+      "name": "Dịch vụ 1",
+      "price": 100000,
+      "description": "Mô tả dịch vụ 1"
+    },
+    {
+      "name": "Dịch vụ 2",
+      "price": 200000,
+      "description": "Mô tả dịch vụ 2"
+    },
+    {
+      "name": "Dịch vụ 3",
+      "price": 300000,
+      "description": "Mô tả dịch vụ 3"
+    },
+    {
+      "name": "Dịch vụ 4",
+      "price": 150000,
+      "description": "Mô tả dịch vụ 4"
+    }
+  ]
+}
